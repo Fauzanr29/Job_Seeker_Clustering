@@ -47,5 +47,13 @@ where in the case of final vocational education,
 where vocational schools are indeed prepared after graduation to immediately work
 
 3) The Top 10 Registrant Districts that have made yellow cards are:
-  1) Labuan, 2) Pandeglang, 3) Cadasari, 4) Karang Tanjung, 5) Maja Sari
-  6)Menes, 7)Saketi, 8)Pulosari, 9)Cikedal, 10)Kaduhejo
+  - Labuan,
+  - Pandeglang,
+  - Cadasari,
+  - Karang Tanjung,
+  - Maja Sari,
+  - Menes,
+  - Saketi,
+  - Pulosari,
+  - Cikedal,
+  - Kaduhejo
